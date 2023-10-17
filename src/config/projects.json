@@ -1,0 +1,20 @@
+{
+    "projects": [
+        {
+            "title": "Farm Inc",
+            "description": "Our farm enterprise is dedicated to producing high-quality, sustainable food for our local community. We use innovative techniques and the latest technology to ensure that our crops and livestock are healthy and thriving. Our team of experienced farmers and ranchers is committed to providing the best possible care for our animals and the environment. Join us in supporting local agriculture and enjoy the freshest, most delicious food around!",
+            "image": "images/log.svg"
+        },
+        {
+            "title": "Old joe Inc",
+            "description": "Old Joe's is a family-owned and operated business that has been serving the community for over 50 years. We are committed to providing our customers with the best quality products at competitive prices. Our goal is to make sure you have everything you need for your home or office, from furniture to appliances and more! We also offer free delivery on all orders over $100.",
+            "image": "images/log.svg"
+        },
+        {
+            "title": "Newe saloon Inc",
+            "description": "Newe Saloon is a new restaurant in town. We are located at the corner of Main Street and Elm Avenue, right next to the post office. Our menu features traditional American fare with an Italian twist. You can find everything from pizza to pasta dishes, as well as salads and sandwiches. Come on down today for some great food!",
+            "image": "images/log.svg"
+        }
+        ]
+    
+}
